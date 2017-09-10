@@ -1,3 +1,5 @@
+# Distribucion binomial
+
 N <- 100000
 n <- 100
 p <- .5
